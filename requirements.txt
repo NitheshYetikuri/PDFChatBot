@@ -1,0 +1,7 @@
+langchain
+langchain_community
+langchain_ollama
+langchain_core
+streamlit
+PyPDF
+faiss-cpu
